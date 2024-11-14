@@ -2,7 +2,7 @@
 
 <h2 align="center">A passionate developer from Norway who mostly codes in Python, Java and MySQL</h2>
 
-- 🌱 I’m currently learning **.NET/C#**
+- 🌱 I’m currently learning **KOTLIN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lak1811](https://github.com/lak1811)
 
